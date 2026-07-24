@@ -26,4 +26,4 @@ Apasionado por la creación de aplicaciones web estructuradas, limpias y eficien
 ### 📬 ¿Hablamos?
 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/joaquinlombardi/
-- ✉️ **Correo electrónico**: `joaquinlombardi.es@gmail.com`
+- ✉️ **Correo electrónico**: `joaquinlombardi@outlook.com`

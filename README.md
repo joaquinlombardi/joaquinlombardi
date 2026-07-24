@@ -25,10 +25,10 @@ Apasionado por la creación de aplicaciones web estructuradas, limpias y eficien
 
 ### 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaquinlombardi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de Joaquin" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinlombardi&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaquinlombardi&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Joaquin" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinlombardi&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
+</div>
 
 ---
 

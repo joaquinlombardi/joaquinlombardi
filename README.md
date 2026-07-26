@@ -1,7 +1,7 @@
 # ¡Hola! Soy Joaquin Lombardi
 
 ### Desarrollador Web Full Stack Junior
-Apasionado por la creación de aplicaciones web estructuradas, limpias y eficientes. Centrado en escribir código comprensible, aplicar buenas prácticas de Git y diseñar arquitecturas backend sólidas.
+Desarrollo aplicaciones web estructuradas, limpias y eficientes, centrándome en escribir código comprensible, aplicar buenas prácticas de Git y diseñar arquitecturas backend sólidas.
 
 ---
 
